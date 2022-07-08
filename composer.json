@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Hermione See",
+        "email": "20019634@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
